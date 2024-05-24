@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Data engineer with over 2 years of experience with designing and implementing scalable data pipelines, skilled in ETL processes, database management for optimized data storage and retrieval.</h2>
+<h2 align="left">Data engineer with experience in designing and implementing scalable data pipelines, skilled in ETL processes, database management for optimized data storage and retrieval.</h2>
 
 ###
 
